@@ -30,7 +30,7 @@ Key areas I work on:
 * Optimized for **usability, performance, and extensibility**
 
 
-👉 **Nujan was successfully acquired by the [TON Foundation](https://ton.org)**.
+👉 **Nujan was acquired by the [TON Foundation](https://ton.org)** and later evolved into the **[TON Web IDE](https://ide.ton.org/)**.
 
 ---
 
